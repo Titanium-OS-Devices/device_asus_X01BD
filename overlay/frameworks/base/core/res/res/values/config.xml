@@ -767,4 +767,7 @@
     <!-- Smart Charing is available -->
     <bool name="config_smartChargingAvailable">true</bool>
 
+    <!-- True if the device supports system navigation keys. -->
+    <bool name="config_supportSystemNavigationKeys">true</bool>
+
 </resources>
