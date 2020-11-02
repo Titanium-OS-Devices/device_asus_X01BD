@@ -246,4 +246,7 @@
     <dimen name="status_bar_height_portrait">81px</dimen>
     <dimen name="status_bar_height_landscape">81px</dimen>
 
+    <!-- Whether device has a notch -->
+    <bool name="config_haveNotch">true</bool>
+
 </resources>
